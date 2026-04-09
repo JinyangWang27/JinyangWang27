@@ -1,6 +1,6 @@
 ## Contact me
 
-- LinedIn: [Jinyang](https://www.linkedin.com/in/jinyang-wang/)
+- LinkedIn: [Jinyang](https://www.linkedin.com/in/jinyang-wang/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
