@@ -10,6 +10,7 @@
 
 - I work primarily in **Python** for quantitative modelling and data projects
 - Building mobile experiences with **Swift**, and web tooling with **JavaScript / TypeScript**
+- Maintainer of [awesome-python](https://github.com/vinta/awesome-python) — one of GitHub's most starred repositories
 - Deepening expertise in **data science and ML pipelines**
 - Most productive on **Friday mornings** — early 🐤 coding style
 - Currently based in **Dubai, UAE** (UTC+4)
