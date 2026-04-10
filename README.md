@@ -50,23 +50,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JinyangWang27&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Jinyang's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinyangWang27&layout=compact&hide_border=true&theme=default&langs_count=6"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
----
-
 ## Coding Activity
 
 <!--START_SECTION:waka-->
