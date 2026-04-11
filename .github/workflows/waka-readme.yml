@@ -23,4 +23,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "False"
           SHOW_TIMEZONE: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
