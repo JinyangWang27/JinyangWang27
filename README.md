@@ -12,6 +12,7 @@
 - Building mobile experiences with **Swift**, and web tooling with **JavaScript / TypeScript**
 - Maintainer of [awesome-python](https://github.com/vinta/awesome-python) — one of GitHub's most starred repositories
 - Deepening expertise in **data science and ML pipelines**
+- Ph.D. Physics · Utrecht University | MSc Mathematics · University of Exeter | BSc Mathematics · University of Liverpool
 - Most productive on **Friday mornings** — early 🐤 coding style
 - Currently based in **Abu Dhabi, UAE** (UTC+4)
 
@@ -124,3 +125,4 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinyang-wang/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jinyang.wang27@outlook.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9050-5736)
