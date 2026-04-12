@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/bar_graph.png" alt="Coding activity bar chart" width="700" />
-</p>
-
----
-
 ## Tech Stack
 
 **Languages**
