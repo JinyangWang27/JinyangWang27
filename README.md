@@ -14,6 +14,13 @@
 
 ---
 
+## My Projects
+
+- [![App Store](https://img.shields.io/badge/App%20Store-Amortly-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/amortly/id6762079983) — iOS loan & mortgage amortisation calculator
+- [![PyPI](https://img.shields.io/badge/PyPI-ichingpy-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/ichingpy/) — Python library for I Ching divination
+
+---
+
 ## Tech Stack
 
 **Languages**
