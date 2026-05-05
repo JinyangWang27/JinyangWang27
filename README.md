@@ -61,10 +61,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                334 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌆 Daytime                384 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌃 Evening                330 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🌞 Morning                339 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌆 Daytime                392 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
+🌃 Evening                378 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
@@ -72,23 +72,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.77 % 
-Markdown                 6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Other                    4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-reStructuredText         1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Swift                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Python                   14 hrs              ████████████░░░░░░░░░░░░░   48.59 % 
+Markdown                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Other                    4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+reStructuredText         57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 7 mins       █████████████████░░░░░░░░   67.42 % 
-Unknown Editor           5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-BraveBrowser             2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Terminal                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Xcode                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+VS Code                  19 hrs 17 mins      █████████████████░░░░░░░░   66.89 % 
+Unknown Editor           4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Terminal                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+BraveBrowser             1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Xcode                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  24 hrs 22 mins      ███████████████████░░░░░░   74.29 % 
-Mac                      6 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-WSL                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Windows                  20 hrs 53 mins      ██████████████████░░░░░░░   72.41 % 
+Mac                      6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+WSL                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 00:29:23 UTC
+ Last Updated on 05/05/2026 00:29:50 UTC
 <!--END_SECTION:waka-->
 
 ---
