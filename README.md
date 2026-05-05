@@ -54,16 +54,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                339 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌆 Daytime                392 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌃 Evening                378 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌞 Morning                344 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌆 Daytime                390 commits         █████████░░░░░░░░░░░░░░░░   34.88 % 
+🌃 Evening                376 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
@@ -94,11 +94,11 @@ WSL                      59 mins             █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Jupyter Notebook         7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -108,7 +108,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 00:29:50 UTC
+ Last Updated on 05/05/2026 04:34:33 UTC
 <!--END_SECTION:waka-->
 
 ---
