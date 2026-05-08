@@ -54,16 +54,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                357 commits         ████████░░░░░░░░░░░░░░░░░   30.94 % 
-🌆 Daytime                409 commits         █████████░░░░░░░░░░░░░░░░   35.44 % 
-🌃 Evening                380 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌞 Morning                359 commits         ████████░░░░░░░░░░░░░░░░░   30.90 % 
+🌆 Daytime                395 commits         ████████░░░░░░░░░░░░░░░░░   33.99 % 
+🌃 Evening                400 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
@@ -72,33 +72,33 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.74 % 
-Other                    4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Markdown                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-reStructuredText         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Python                   8 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.79 % 
+Other                    3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Markdown                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TeX                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      ████████████████░░░░░░░░░   64.37 % 
-Unknown Editor           3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Terminal                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-BraveBrowser             1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Notes                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  11 hrs 19 mins      ████████████████░░░░░░░░░   65.13 % 
+Unknown Editor           2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Terminal                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+BraveBrowser             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Notes                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  14 hrs 42 mins      █████████████████░░░░░░░░   66.20 % 
-Mac                      6 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-WSL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Windows                  11 hrs 41 mins      █████████████████░░░░░░░░   67.27 % 
+Mac                      5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
+WSL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -108,7 +108,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 00:29:30 UTC
+ Last Updated on 08/05/2026 00:30:22 UTC
 <!--END_SECTION:waka-->
 
 ---
