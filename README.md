@@ -54,16 +54,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                425 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌆 Daytime                416 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌃 Evening                362 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+🌞 Morning                430 commits         █████████░░░░░░░░░░░░░░░░   35.30 % 
+🌆 Daytime                418 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌃 Evening                362 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
@@ -72,33 +72,33 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.76 % 
-Other                    4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Swift                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-TeX                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python                   9 hrs 34 mins       ██████████████░░░░░░░░░░░   55.46 % 
+Other                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Swift                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 9 mins        ████████████████░░░░░░░░░   62.84 % 
-BraveBrowser             1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Terminal                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Unknown Editor           1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Xcode                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+VS Code                  12 hrs 45 mins      ██████████████████░░░░░░░   73.89 % 
+BraveBrowser             1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Unknown Editor           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Xcode                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Windows                  9 hrs 1 min         ███████████████░░░░░░░░░░   61.83 % 
-Mac                      5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-WSL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Windows                  10 hrs 50 mins      ████████████████░░░░░░░░░   62.85 % 
+Mac                      4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+WSL                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   16 repos            ████████████░░░░░░░░░░░░░   48.48 % 
+Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 00:31:15 UTC
+ Last Updated on 13/05/2026 00:33:29 UTC
 <!--END_SECTION:waka-->
 
 ---
