@@ -56,14 +56,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                430 commits         █████████░░░░░░░░░░░░░░░░   35.30 % 
-🌆 Daytime                418 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌃 Evening                362 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌞 Morning                430 commits         █████████░░░░░░░░░░░░░░░░   35.22 % 
+🌆 Daytime                419 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌃 Evening                364 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
@@ -72,33 +72,33 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 34 mins       ██████████████░░░░░░░░░░░   55.46 % 
-Other                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Swift                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   9 hrs 50 mins       ██████████████░░░░░░░░░░░   57.43 % 
+Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Swift                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 45 mins      ██████████████████░░░░░░░   73.89 % 
-BraveBrowser             1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Terminal                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Unknown Editor           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Xcode                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+VS Code                  13 hrs 34 mins      ████████████████████░░░░░   79.32 % 
+BraveBrowser             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Unknown Editor           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Terminal                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Xcode                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Windows                  10 hrs 50 mins      ████████████████░░░░░░░░░   62.85 % 
-Mac                      4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-WSL                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Windows                  10 hrs 30 mins      ███████████████░░░░░░░░░░   61.38 % 
+WSL                      3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Mac                      3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████████░░░░░░░░░░░░░   48.48 % 
-Swift                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
+Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 00:33:29 UTC
+ Last Updated on 14/05/2026 00:34:52 UTC
 <!--END_SECTION:waka-->
 
 ---
