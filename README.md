@@ -54,42 +54,7 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                430 commits         █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌆 Daytime                419 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌃 Evening                364 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   9 hrs 50 mins       ██████████████░░░░░░░░░░░   57.43 % 
-Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Swift                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 34 mins      ████████████████████░░░░░   79.32 % 
-BraveBrowser             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Unknown Editor           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Terminal                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Xcode                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-💻 Operating System: 
-Windows                  10 hrs 30 mins      ███████████████░░░░░░░░░░   61.38 % 
-WSL                      3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Mac                      3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -108,7 +73,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 00:34:52 UTC
+ Last Updated on 15/05/2026 00:32:11 UTC
 <!--END_SECTION:waka-->
 
 ---
