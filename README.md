@@ -54,15 +54,17 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                483 commits         █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌆 Daytime                438 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌃 Evening                415 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+🌞 Morning                467 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌃 Evening                399 commits         ████████░░░░░░░░░░░░░░░░░   30.65 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
@@ -94,8 +96,8 @@ Mac                      4 hrs 20 mins       ████░░░░░░░�
 ```text
 Python                   16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
 Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
@@ -106,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 00:33:25 UTC
+ Last Updated on 19/05/2026 00:35:35 UTC
 <!--END_SECTION:waka-->
 
 ---
