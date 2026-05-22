@@ -54,18 +54,49 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                555 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌆 Daytime                480 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌃 Evening                515 commits         ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+Markdown                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Swift                    3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Other                    2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+JSON                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 37 mins      ██████████████████░░░░░░░   72.35 % 
+Terminal                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Claude Code              2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Xcode                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+BraveBrowser             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+
+💻 Operating System: 
+WSL                      8 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
+Windows                  8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+Mac                      5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
+Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -75,7 +106,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 00:36:51 UTC
+ Last Updated on 22/05/2026 00:35:12 UTC
 <!--END_SECTION:waka-->
 
 ---
