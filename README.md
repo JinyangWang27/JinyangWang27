@@ -54,15 +54,17 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2030%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                555 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
-🌆 Daytime                480 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌃 Evening                515 commits         ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+🌞 Morning                497 commits         █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌆 Daytime                440 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌃 Evening                454 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 
@@ -106,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 00:35:12 UTC
+ Last Updated on 23/05/2026 00:34:27 UTC
 <!--END_SECTION:waka-->
 
 ---
