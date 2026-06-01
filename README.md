@@ -54,9 +54,40 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                530 commits         █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌆 Daytime                490 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌃 Evening                498 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Swift                    1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   41.07 % 
+Markdown                 1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.82 % 
+Other                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+
+🔥 Editors: 
+BraveBrowser             1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
+Claude Code              1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Terminal                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Xcode                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+💻 Operating System: 
+Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -75,7 +106,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 00:36:40 UTC
+ Last Updated on 01/06/2026 00:38:14 UTC
 <!--END_SECTION:waka-->
 
 ---
