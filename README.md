@@ -54,40 +54,9 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                512 commits         █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌆 Daytime                443 commits         ████████░░░░░░░░░░░░░░░░░   30.94 % 
-🌃 Evening                469 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Swift                    1 hr 29 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-
-🔥 Editors: 
-Claude Code              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Terminal                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-BraveBrowser             49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -106,7 +75,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 00:41:33 UTC
+ Last Updated on 03/06/2026 00:46:08 UTC
 <!--END_SECTION:waka-->
 
 ---
