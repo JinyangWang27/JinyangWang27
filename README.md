@@ -54,9 +54,42 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                539 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌆 Daytime                459 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌃 Evening                471 commits         ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Rust                     3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
+Markdown                 1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Swift                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Python                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
+Claude Code              1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Codex CLI                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Terminal                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+BraveBrowser             52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+
+💻 Operating System: 
+Mac                      4 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.17 % 
+WSL                      3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.47 % 
+Windows                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -75,7 +108,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 00:46:08 UTC
+ Last Updated on 04/06/2026 00:46:25 UTC
 <!--END_SECTION:waka-->
 
 ---
