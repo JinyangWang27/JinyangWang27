@@ -54,17 +54,15 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                560 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌆 Daytime                463 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌃 Evening                474 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                585 commits         █████████░░░░░░░░░░░░░░░░   37.86 % 
+🌆 Daytime                474 commits         ████████░░░░░░░░░░░░░░░░░   30.68 % 
+🌃 Evening                478 commits         ████████░░░░░░░░░░░░░░░░░   30.94 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
@@ -108,7 +106,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 00:38:45 UTC
+ Last Updated on 08/06/2026 00:40:19 UTC
 <!--END_SECTION:waka-->
 
 ---
