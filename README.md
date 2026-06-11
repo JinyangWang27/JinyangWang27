@@ -18,6 +18,7 @@
 
 - [![App Store](https://img.shields.io/badge/App%20Store-Amortly-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/amortly/id6762079983) — iOS loan & mortgage amortisation calculator
 - [![PyPI](https://img.shields.io/badge/PyPI-ichingpy-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/ichingpy/) — Python library for I Ching divination
+- [![Crates.io](https://img.shields.io/badge/Crates.io-lunar--lite-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/lunar-lite) — Rust library for lunar calendar calculations
 
 ---
 
