@@ -9,6 +9,7 @@
 ## About Me
 
 - I work primarily in **Python** for quantitative modelling and data projects
+- Personal homepage: [jinyangwang27.github.io](https://jinyangwang27.github.io/)
 - Maintainer of [awesome-python](https://github.com/vinta/awesome-python) — one of GitHub's most starred repositories
 - Ph.D. Physics · Utrecht University | MSc Mathematics · University of Exeter | BSc Mathematics · University of Liverpool
 
