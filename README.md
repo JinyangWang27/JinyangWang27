@@ -57,17 +57,17 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1085 commits        ██████████░░░░░░░░░░░░░░░   41.89 % 
-🌆 Daytime                845 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌃 Evening                652 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+🌞 Morning                997 commits         ██████████░░░░░░░░░░░░░░░   40.81 % 
+🌆 Daytime                791 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
+🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 
@@ -75,23 +75,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     14 hrs 3 mins       █████████████░░░░░░░░░░░░   53.07 % 
-Markdown                 7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-TOML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Rust                     15 hrs 1 min        █████████████░░░░░░░░░░░░   53.29 % 
+Markdown                 8 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+TOML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
-Claude Code              6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Codex CLI                5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-BraveBrowser             3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Terminal                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+VS Code                  9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
+Codex CLI                7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Claude Code              6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+BraveBrowser             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Terminal                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-WSL                      17 hrs 47 mins      █████████████████░░░░░░░░   67.16 % 
-Mac                      7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Windows                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+WSL                      18 hrs 53 mins      █████████████████░░░░░░░░   66.99 % 
+Mac                      7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Windows                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 00:37:32 UTC
+ Last Updated on 03/07/2026 02:11:51 UTC
 <!--END_SECTION:waka-->
 
 ---
