@@ -57,17 +57,17 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                941 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
-🌆 Daytime                746 commits         ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌃 Evening                684 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+🌞 Morning                953 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌆 Daytime                764 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                700 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 
@@ -75,33 +75,33 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 59 mins      ███████████████░░░░░░░░░░   58.69 % 
-Markdown                 4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Rust                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Swift                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   17 hrs 19 mins      █████████████░░░░░░░░░░░░   53.95 % 
+Markdown                 5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Rust                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 18 mins      ███████████████░░░░░░░░░░   59.82 % 
-Codex CLI                3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-BraveBrowser             3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Terminal                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Claude Code              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+VS Code                  16 hrs 35 mins      █████████████░░░░░░░░░░░░   51.70 % 
+BraveBrowser             5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Codex CLI                4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Claude Code              2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Terminal                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-WSL                      13 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.49 % 
-Mac                      8 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Windows                  7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+WSL                      16 hrs 24 mins      █████████████░░░░░░░░░░░░   51.12 % 
+Mac                      9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Windows                  6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████████░░░░░░░░░░░░░   46.34 % 
-Swift                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Python                   19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -111,7 +111,7 @@ TeX                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 02:02:56 UTC
+ Last Updated on 14/07/2026 01:49:36 UTC
 <!--END_SECTION:waka-->
 
 ---
