@@ -59,39 +59,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1053 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
-🌆 Daytime                889 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌃 Evening                847 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-Markdown                 8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
-TOML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-
-🔥 Editors: 
-Codex CLI                11 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.73 % 
-VS Code                  7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-BraveBrowser             5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Terminal                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-WSL                      12 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.00 % 
-Mac                      6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Windows                  6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -109,7 +76,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:00:24 UTC
+ Last Updated on 25/07/2026 01:59:22 UTC
 <!--END_SECTION:waka-->
 
 ---
