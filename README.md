@@ -57,7 +57,41 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1040 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
+🌆 Daytime                870 commits         ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌃 Evening                821 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 7 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
+Python                   6 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Batchfile                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+
+🔥 Editors: 
+Codex CLI                8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+VS Code                  7 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
+BraveBrowser             3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+💻 Operating System: 
+WSL                      8 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
+Windows                  6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Mac                      4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -76,7 +110,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:59:22 UTC
+ Last Updated on 26/07/2026 02:04:24 UTC
 <!--END_SECTION:waka-->
 
 ---
