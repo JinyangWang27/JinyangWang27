@@ -66,9 +66,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1059 commits        ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌆 Daytime                899 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
-🌃 Evening                805 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌞 Morning                1062 commits        ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌆 Daytime                902 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌃 Evening                805 commits         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
 🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
@@ -77,31 +77,31 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-Python                   3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Other                    2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Python                   3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Swift                    2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Other                    1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-BraveBrowser             2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Claude Code              2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Codex CLI                2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Xcode                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+VS Code                  2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Claude Code              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Codex CLI                2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+BraveBrowser             1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Terminal                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 💻 Operating System: 
-Mac                      6 hrs 27 mins       ██████████████░░░░░░░░░░░   55.96 % 
-Windows                  3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-WSL                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Mac                      4 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.41 % 
+Windows                  3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+WSL                      1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (44.97%)
+⏱ AI Coding Time: 5 hrs 11 mins (51.66%)
 
-✍️ 2,380 lines written by AI, 128 lines written by hand (94.9% AI-written)
+✍️ 2,380 lines written by AI, 120 lines written by hand (95.2% AI-written)
 
 🔤 62,484,950 Input Tokens, 250,493 Output Tokens
 
@@ -114,10 +114,10 @@ GPT                      95 lines            █░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.9% of written lines came from AI
+🤖 AI-Driven — 95.2% of written lines came from AI
 📚 Verbose Prompter — average 2,708 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.85% of changed lines were hand-edited
+🚀 High AI Trust — 6.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +137,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 00:15:11 UTC
+ Last Updated on 09/08/2026 00:13:49 UTC
 <!--END_SECTION:waka-->
 
 ---
