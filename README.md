@@ -66,10 +66,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1062 commits        ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌆 Daytime                905 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌃 Evening                805 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+🌞 Morning                1100 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌆 Daytime                944 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌃 Evening                861 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
@@ -77,47 +77,46 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.39 % 
-Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Swift                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   2 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.28 % 
+Markdown                 1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Swift                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
-Codex CLI                1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Claude Code              1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-BraveBrowser             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Terminal                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+VS Code                  1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   35.06 % 
+Codex CLI                1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Claude Code              58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+BraveBrowser             30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Terminal                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
-Mac                      2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-WSL                      1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Windows                  2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+WSL                      1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+Mac                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 8 mins (53.88%)
+⏱ AI Coding Time: 3 hrs 22 mins (59.92%)
 
-✍️ 2,090 lines written by AI, 116 lines written by hand (94.74% AI-written)
+✍️ 1,531 lines written by AI, 96 lines written by hand (94.1% AI-written)
 
-🔤 51,774,969 Input Tokens, 202,945 Output Tokens
+🔤 35,048,844 Input Tokens, 123,896 Output Tokens
 
-💵 $264.24 Estimated AI Cost This Week
+💵 $178.71 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 65 AI Prompts
+🧠 6 AI Sessions, 30 AI Prompts
 
-Opus                     2,068 lines         ████████████████████████░   97.13 % 
-GPT                      61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,483 lines         ████████████████████████░   96.05 % 
+GPT                      61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.74% of written lines came from AI
-📚 Verbose Prompter — average 1,640 characters per prompt
+🤖 AI-Driven — 94.1% of written lines came from AI
+📄 Detailed Prompter — average 1,079 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.15% of changed lines were hand-edited
+🚀 High AI Trust — 8.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +136,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 00:16:04 UTC
+ Last Updated on 11/08/2026 00:15:26 UTC
 <!--END_SECTION:waka-->
 
 ---
