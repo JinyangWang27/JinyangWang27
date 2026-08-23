@@ -66,10 +66,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1081 commits        █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌆 Daytime                933 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌃 Evening                833 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+🌞 Morning                1062 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
+🌆 Daytime                912 commits         ████████░░░░░░░░░░░░░░░░░   32.62 % 
+🌃 Evening                805 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
@@ -77,19 +77,39 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   42 mins             ██████████████████░░░░░░░   73.04 % 
+Other                    15 mins             ███████░░░░░░░░░░░░░░░░░░   26.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+BraveBrowser             44 mins             ███████████████████░░░░░░   77.44 % 
+Terminal                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Codex CLI                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (32.55%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 118,609 Input Tokens, 25,131 Output Tokens
+
+💵 $2.08 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,592 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +129,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:10:54 UTC
+ Last Updated on 23/08/2026 00:10:50 UTC
 <!--END_SECTION:waka-->
 
 ---
