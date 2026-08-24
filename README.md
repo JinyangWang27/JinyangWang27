@@ -57,19 +57,19 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1062 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌆 Daytime                912 commits         ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌃 Evening                805 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+🌞 Morning                1081 commits        █████████░░░░░░░░░░░░░░░░   37.59 % 
+🌆 Daytime                933 commits         ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌃 Evening                843 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
@@ -77,39 +77,45 @@
 
 ```text
 💬 Programming Languages: 
-Python                   42 mins             ██████████████████░░░░░░░   73.04 % 
-Other                    15 mins             ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Python                   2 hrs 18 mins       ████████████████░░░░░░░░░   62.08 % 
+Other                    1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.63 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-BraveBrowser             44 mins             ███████████████████░░░░░░   77.44 % 
-Terminal                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Codex CLI                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+BraveBrowser             2 hrs 21 mins       ████████████████░░░░░░░░░   63.27 % 
+Claude Code              45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Terminal                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (32.55%)
+⏱ AI Coding Time: 1 hr 25 mins (38.26%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 431 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 118,609 Input Tokens, 25,131 Output Tokens
+🔤 461,348 Input Tokens, 112,123 Output Tokens
 
-💵 $2.08 Estimated AI Cost This Week
+💵 $18.39 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 9 AI Sessions, 23 AI Prompts
 
+Opus                     443 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 1,592 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,401 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +135,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 00:10:50 UTC
+ Last Updated on 24/08/2026 00:10:37 UTC
 <!--END_SECTION:waka-->
 
 ---
