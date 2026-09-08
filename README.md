@@ -57,19 +57,19 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1194 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌆 Daytime                1009 commits        ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌃 Evening                929 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+🌞 Morning                1253 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌆 Daytime                1063 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌃 Evening                1020 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
@@ -77,27 +77,27 @@
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
-Markdown                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-HTML                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Python                   2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
+Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+HTML                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Python                   2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-BraveBrowser             8 hrs 18 mins       █████████████░░░░░░░░░░░░   51.36 % 
-Claude Code              3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Terminal                 3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+BraveBrowser             6 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.25 % 
+Claude Code              3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Terminal                 3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      16 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 44 mins (54.11%)
+⏱ AI Coding Time: 8 hrs 44 mins (60.03%)
 
 ✍️ 3,514 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -136,7 +136,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 00:19:26 UTC
+ Last Updated on 08/09/2026 00:18:29 UTC
 <!--END_SECTION:waka-->
 
 ---
