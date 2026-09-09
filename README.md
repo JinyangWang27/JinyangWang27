@@ -66,10 +66,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1253 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌆 Daytime                1063 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-🌃 Evening                1020 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                1334 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌆 Daytime                1161 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌃 Evening                1123 commits        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
@@ -77,45 +77,45 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-HTML                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Python                   2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+HTML                     2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Python                   2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-BraveBrowser             6 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.25 % 
-Claude Code              3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Terminal                 3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+BraveBrowser             5 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.68 % 
+Terminal                 3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Claude Code              2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      14 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 44 mins (60.03%)
+⏱ AI Coding Time: 6 hrs 19 mins (59.25%)
 
-✍️ 3,514 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,490 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,069,223 Input Tokens, 454,819 Output Tokens
+🔤 1,713,893 Input Tokens, 299,113 Output Tokens
 
-💵 $77.45 Estimated AI Cost This Week
+💵 $52.39 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 57 AI Prompts
+🧠 10 AI Sessions, 44 AI Prompts
 
-Fable                    2,864 lines         ████████████████████░░░░░   81.50 % 
-GPT                      409 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Opus                     175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Sonnet                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Fable                    2,864 lines         █████████████████████░░░░   82.06 % 
+GPT                      409 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Opus                     151 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Sonnet                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 756 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
@@ -136,7 +136,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 00:18:29 UTC
+ Last Updated on 09/09/2026 00:18:49 UTC
 <!--END_SECTION:waka-->
 
 ---
