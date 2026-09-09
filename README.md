@@ -21,6 +21,7 @@
 - [![PyPI](https://img.shields.io/badge/PyPI-ichingpy-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/ichingpy/) — Python library for I Ching divination
 - [![Crates.io](https://img.shields.io/badge/Crates.io-lunar--lite-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/lunar-lite) — Rust library for lunar calendar calculations
 - [![Crates.io](https://img.shields.io/badge/Crates.io-iztro-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/iztro) — A Rust implementation for Zi Wei Dou Shu (紫微斗数) chart generation, feature extraction, and eventually rule-based interpretation.
+- [![GitHub](https://img.shields.io/badge/GitHub-people--context-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JinyangWang27/people-context) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-Official-5A67D8?style=flat-square)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.JinyangWang27%2Fpeople-context) [![Glama](https://img.shields.io/badge/Glama-Listed-6C47FF?style=flat-square)](https://glama.ai/mcp/servers/JinyangWang27/people-context) — Local-first memory for AI agents about the people in your life
 
 ---
 
