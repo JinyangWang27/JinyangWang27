@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1267 commits        █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌆 Daytime                1163 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-🌃 Evening                1036 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+🌞 Morning                1225 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌆 Daytime                1136 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌃 Evening                1017 commits        ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
@@ -78,45 +78,45 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Markdown                 1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-TeX                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown                 6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
+Python                   4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Other                    3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+TeX                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         ████████████████░░░░░░░░░   63.40 % 
-Codex Vscode             52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Codex CLI                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Claude Code              12 hrs 41 mins      ████████████████████░░░░░   81.91 % 
+Codex Vscode             1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (98.25%)
+⏱ AI Coding Time: 15 hrs 23 mins (99.27%)
 
-✍️ 2,053 lines written by AI, 8 lines written by hand (99.61% AI-written)
+✍️ 5,296 lines written by AI, 8 lines written by hand (99.85% AI-written)
 
-🔤 2,082,327 Input Tokens, 225,195 Output Tokens
+🔤 7,282,901 Input Tokens, 885,309 Output Tokens
 
-💵 $39.83 Estimated AI Cost This Week
+💵 $232.68 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 48 AI Prompts
+🧠 20 AI Sessions, 92 AI Prompts
 
-Opus                     1,997 lines         ████████████████████████░   96.57 % 
-GPT                      44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Sonnet                   27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Opus                     5,088 lines         ████████████████████████░   95.28 % 
+GPT                      225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Sonnet                   27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📄 Detailed Prompter — average 1,467 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.72% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 777 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 00:21:27 UTC
+ Last Updated on 23/09/2026 00:20:52 UTC
 <!--END_SECTION:waka-->
 
 ---
