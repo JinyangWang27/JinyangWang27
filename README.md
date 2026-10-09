@@ -64,6 +64,60 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1443 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌆 Daytime                1788 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌃 Evening                1419 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.97 % 
+Rust                     2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+
+🔥 Editors: 
+Claude Code              7 hrs 24 mins       █████████████████░░░░░░░░   67.74 % 
+VS Code                  3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+
+💻 Operating System: 
+Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 59 mins (73.13%)
+
+✍️ 2,946 lines written by AI, 114 lines written by hand (96.27% AI-written)
+
+🔤 3,862,600 Input Tokens, 824,598 Output Tokens
+
+💵 $89.72 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 47 AI Prompts
+
+Opus                     2,947 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.27% of written lines came from AI
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.41% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +135,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 00:24:14 UTC
+ Last Updated on 09/10/2026 00:25:35 UTC
 <!--END_SECTION:waka-->
 
 ---
