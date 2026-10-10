@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1443 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-🌆 Daytime                1788 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌃 Evening                1419 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+🌞 Morning                1443 commits        ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌆 Daytime                1806 commits        ██████████░░░░░░░░░░░░░░░   38.47 % 
+🌃 Evening                1419 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 
@@ -78,44 +78,45 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.97 % 
-Rust                     2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Markdown                 5 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.51 % 
+Other                    2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Rust                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 24 mins       █████████████████░░░░░░░░   67.74 % 
-VS Code                  3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Claude Code              8 hrs 12 mins       ███████████████████░░░░░░   76.96 % 
+VS Code                  2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 9 mins        ███████████████████░░░░░░   76.37 % 
+Mac                      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (73.13%)
+⏱ AI Coding Time: 8 hrs 36 mins (80.6%)
 
-✍️ 2,946 lines written by AI, 114 lines written by hand (96.27% AI-written)
+✍️ 1,166 lines written by AI, 32 lines written by hand (97.33% AI-written)
 
-🔤 3,862,600 Input Tokens, 824,598 Output Tokens
+🔤 2,481,009 Input Tokens, 678,594 Output Tokens
 
-💵 $89.72 Estimated AI Cost This Week
+💵 $63.07 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 47 AI Prompts
+🧠 23 AI Sessions, 82 AI Prompts
 
-Opus                     2,947 lines         █████████████████████████   100.00 % 
+Opus                     1,139 lines         ████████████████████████░   97.10 % 
+Sonnet                   34 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.27% of written lines came from AI
-📝 Concise Prompter — average 210 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.41% of changed lines were hand-edited
+🤖 AI-Driven — 97.33% of written lines came from AI
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +136,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 00:25:35 UTC
+ Last Updated on 10/10/2026 00:26:41 UTC
 <!--END_SECTION:waka-->
 
 ---
