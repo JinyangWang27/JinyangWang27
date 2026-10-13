@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Jinyang Wang 👋</h1>
 
 <p align="center">
-  Quantitative modeller based in the UAE · Early bird coder · Python &amp; mobile enthusiast
+  AI engineer based in the UAE · Early bird coder · Python &amp; mobile enthusiast
 </p>
 
 ---
 
 ## About Me
 
-- I work primarily in **Python** for quantitative modelling and data projects
+- I work primarily in **Python** for quantitative modelling and AI projects
 - Personal homepage: [jinyangwang27.github.io](https://jinyangwang27.github.io/)
 - Maintainer of [awesome-python](https://github.com/vinta/awesome-python) — one of GitHub's most starred repositories
 - Ph.D. Physics · Utrecht University | MSc Mathematics · University of Exeter | BSc Mathematics · University of Liverpool
