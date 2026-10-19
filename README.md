@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1391 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌆 Daytime                1965 commits        ██████████░░░░░░░░░░░░░░░   41.40 % 
-🌃 Evening                1366 commits        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+🌞 Morning                1435 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌆 Daytime                2024 commits        ██████████░░░░░░░░░░░░░░░   41.33 % 
+🌃 Evening                1412 commits        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 
@@ -78,46 +78,47 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
-Markdown                 5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-TOML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Python                   8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.82 % 
+Markdown                 5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TOML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 25 mins      █████████████░░░░░░░░░░░░   51.72 % 
-Codex Vscode             6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-VS Code                  3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Claude Code              10 hrs 54 mins      █████████████░░░░░░░░░░░░   52.20 % 
+Codex Vscode             6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+VS Code                  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      20 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 33 mins (87.05%)
+⏱ AI Coding Time: 18 hrs 16 mins (87.5%)
 
-✍️ 7,622 lines written by AI, 41 lines written by hand (99.46% AI-written)
+✍️ 7,966 lines written by AI, 41 lines written by hand (99.49% AI-written)
 
-🔤 5,862,635 Input Tokens, 1,138,000 Output Tokens
+🔤 7,227,228 Input Tokens, 1,202,863 Output Tokens
 
-💵 $112.48 Estimated AI Cost This Week
+💵 $122.67 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 235 AI Prompts
+🧠 64 AI Sessions, 242 AI Prompts
 
-Opus                     5,703 lines         ██████████████████░░░░░░░   73.92 % 
-GPT                      1,958 lines         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Sonnet                   54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Opus                     5,994 lines         ███████████████████░░░░░░   74.38 % 
+GPT                      2,011 lines         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Sonnet                   54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📄 Detailed Prompter — average 757 characters per prompt
+🤖 AI-Driven — 99.49% of written lines came from AI
+📄 Detailed Prompter — average 862 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +138,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 00:25:39 UTC
+ Last Updated on 19/10/2026 00:26:07 UTC
 <!--END_SECTION:waka-->
 
 ---
