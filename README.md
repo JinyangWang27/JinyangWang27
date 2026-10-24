@@ -65,13 +65,25 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+**🐱 My GitHub Data** 
+
+> 📦 319.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,296 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 41 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1334 commits        █████████░░░░░░░░░░░░░░░░   34.47 % 
-🌆 Daytime                1223 commits        ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌃 Evening                1293 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+🌞 Morning                1335 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌆 Daytime                1245 commits        ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌃 Evening                1321 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
@@ -79,67 +91,62 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs               ██████████░░░░░░░░░░░░░░░   38.89 % 
-Markdown                 6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Python                   10 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
+Markdown                 8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+Other                    4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 22 mins      ████████████████░░░░░░░░░   64.85 % 
-VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Codex Vscode             2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              20 hrs 16 mins      ██████████████████░░░░░░░   70.05 % 
+VS Code                  5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Codex Vscode             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Codex Exec               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Mac                      20 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 58 mins (92.05%)
+⏱ AI Coding Time: 26 hrs 59 mins (93.27%)
 
-✍️ 3,494 lines written by AI, 8 lines written by hand (99.77% AI-written)
+✍️ 8,007 lines written by AI, 8 lines written by hand (99.9% AI-written)
 
-🔤 7,498,783 Input Tokens, 1,020,927 Output Tokens
+🔤 13,420,339 Input Tokens, 1,822,443 Output Tokens
 
-💵 $107.97 Estimated AI Cost This Week
+💵 $186.68 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 239 AI Prompts
+🧠 123 AI Sessions, 322 AI Prompts
 
-Opus                     2,386 lines         █████████████████░░░░░░░░   66.83 % 
-GPT                      1,184 lines         ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Opus                     6,932 lines         █████████████████████░░░░   85.62 % 
+GPT                      1,164 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📄 Detailed Prompter — average 1,036 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 885 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ████████████░░░░░░░░░░░░░   46.00 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   23 repos            ███████████░░░░░░░░░░░░░░   44.23 % 
+Swift                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Rust                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/JinyangWang27/JinyangWang27/main/assets/bar_graph.png)
-
-
- Last Updated on 23/10/2026 06:56:16 UTC
+ Last Updated on 24/10/2026 00:17:13 UTC
 <!--END_SECTION:waka-->
 
 ---
