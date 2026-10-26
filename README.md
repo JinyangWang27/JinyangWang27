@@ -67,9 +67,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 320.4 kB Used in GitHub's Storage 
+> 📦 319.1 kB Used in GitHub's Storage 
  > 
-> 🏆 3,299 Contributions in the Year 2026
+> 🏆 3,314 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -80,10 +80,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1390 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌆 Daytime                1328 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌃 Evening                1429 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                1427 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌆 Daytime                1339 commits        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 Evening                1443 commits        █████████░░░░░░░░░░░░░░░░   34.09 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 
@@ -91,45 +91,44 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
-Markdown                 7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Other                    4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
+Markdown                 7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Other                    4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 5 mins       ██████████████████░░░░░░░   71.02 % 
-VS Code                  5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Codex Vscode             2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Codex Exec               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Claude Code              17 hrs 32 mins      █████████████████░░░░░░░░   69.80 % 
+VS Code                  5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Codex Vscode             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Codex Exec               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      26 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 55 mins (92.75%)
+⏱ AI Coding Time: 23 hrs 11 mins (92.25%)
 
-✍️ 6,439 lines written by AI, 8 lines written by hand (99.88% AI-written)
+✍️ 5,483 lines written by AI, 8 lines written by hand (99.85% AI-written)
 
-🔤 10,712,890 Input Tokens, 1,654,126 Output Tokens
+🔤 9,015,951 Input Tokens, 1,504,373 Output Tokens
 
-💵 $148.86 Estimated AI Cost This Week
+💵 $129.18 Estimated AI Cost This Week
 
-🧠 115 AI Sessions, 301 AI Prompts
+🧠 107 AI Sessions, 283 AI Prompts
 
-Opus                     5,512 lines         █████████████████████░░░░   84.44 % 
-GPT                      1,016 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Opus                     4,609 lines         █████████████████████░░░░   82.72 % 
+GPT                      963 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 887 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 788 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +144,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 00:19:25 UTC
+ Last Updated on 26/10/2026 00:18:20 UTC
 <!--END_SECTION:waka-->
 
 ---
