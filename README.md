@@ -11,6 +11,7 @@
 - I work primarily in **Python** for quantitative modelling and AI projects
 - Personal homepage: [jinyangwang27.github.io](https://jinyangwang27.github.io/)
 - Maintainer of [awesome-python](https://github.com/vinta/awesome-python) — one of GitHub's most starred repositories
+- Curator of [awesome-chinese-metaphysics](https://github.com/JinyangWang27/awesome-chinese-metaphysics) — tools, libraries and resources for 六爻, 紫微斗数, 八字 and more
 - Ph.D. Physics · Utrecht University | MSc Mathematics · University of Exeter | BSc Mathematics · University of Liverpool
 
 ---
@@ -21,8 +22,9 @@
 - [![App Store](https://img.shields.io/badge/App%20Store-Slacken-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/slacken/id6769299457) — iOS puzzle game: untangle connected nodes until no lines cross, no timers
 - [![PyPI](https://img.shields.io/badge/PyPI-ichingpy-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/ichingpy/) — Python library for I Ching divination
 - [![Crates.io](https://img.shields.io/badge/Crates.io-lunar--lite-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/lunar-lite) — Rust library for lunar calendar calculations
-- [![Crates.io](https://img.shields.io/badge/Crates.io-iztro-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/iztro) — A Rust implementation for Zi Wei Dou Shu (紫微斗数) chart generation, feature extraction, and eventually rule-based interpretation.
-- [![GitHub](https://img.shields.io/badge/GitHub-people--context-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JinyangWang27/people-context) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-Official-5A67D8?style=flat-square)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.JinyangWang27%2Fpeople-context) [![Glama](https://img.shields.io/badge/Glama-Listed-6C47FF?style=flat-square)](https://glama.ai/mcp/servers/JinyangWang27/people-context) — Local-first memory for AI agents about the people in your life
+- [![Crates.io](https://img.shields.io/badge/Crates.io-iztro-CE412B?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/iztro) [![GitHub](https://img.shields.io/badge/GitHub-iztro--rs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JinyangWang27/iztro-rs) — A Rust implementation for Zi Wei Dou Shu (紫微斗数) chart generation, feature extraction, and eventually rule-based interpretation.
+- [![GitHub](https://img.shields.io/badge/GitHub-people--context-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JinyangWang27/people-context) [![Stars](https://img.shields.io/github/stars/JinyangWang27/people-context?style=flat-square)](https://github.com/JinyangWang27/people-context/stargazers) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-Official-5A67D8?style=flat-square)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.JinyangWang27%2Fpeople-context) [![Glama](https://img.shields.io/badge/Glama-Listed-6C47FF?style=flat-square)](https://glama.ai/mcp/servers/JinyangWang27/people-context) — Local-first memory for AI agents about the people in your life
+- [![GitHub](https://img.shields.io/badge/GitHub-realm--kit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JinyangWang27/realm-kit) — Deterministic, offline text-RPG engine in Rust: AI authors the world at build time, RealmKit runs it
 
 ---
 
@@ -37,6 +39,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white)
 
 **Python Libraries**
 
@@ -53,6 +56,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 ---
 
