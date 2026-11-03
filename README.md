@@ -71,9 +71,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 321.4 kB Used in GitHub's Storage 
+> 📦 321.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,379 Contributions in the Year 2026
+> 🏆 3,387 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1437 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌆 Daytime                1403 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌃 Evening                1489 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                1594 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+🌆 Daytime                1530 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌃 Evening                1644 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
@@ -95,45 +95,45 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
-Markdown                 4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Other                    3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-GDScript3                2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Python                   8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
+Markdown                 4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Other                    3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+GDScript3                2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 6 mins       █████████████████████░░░░   82.22 % 
-VS Code                  3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Codex Vscode             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Zed                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Claude Code              18 hrs 54 mins      ████████████████████░░░░░   81.98 % 
+VS Code                  2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Codex Vscode             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Zed                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      24 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 7 mins (90.51%)
+⏱ AI Coding Time: 20 hrs 45 mins (89.94%)
 
-✍️ 14,635 lines written by AI, 10 lines written by hand (99.93% AI-written)
+✍️ 11,455 lines written by AI, 10 lines written by hand (99.91% AI-written)
 
-🔤 7,860,914 Input Tokens, 1,948,665 Output Tokens
+🔤 6,958,865 Input Tokens, 1,669,956 Output Tokens
 
-💵 $162.89 Estimated AI Cost This Week
+💵 $143.42 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 253 AI Prompts
+🧠 56 AI Sessions, 242 AI Prompts
 
-Opus                     14,840 lines        ████████████████████████░   96.86 % 
-GPT                      481 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Opus                     11,608 lines        ████████████████████████░   96.02 % 
+GPT                      481 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 514 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 534 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +149,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 00:14:48 UTC
+ Last Updated on 03/11/2026 00:14:38 UTC
 <!--END_SECTION:waka-->
 
 ---
